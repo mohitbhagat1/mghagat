@@ -5,6 +5,10 @@ welcome to git
  past
 chicken
 fish
-beans
-pizza
+
+
 done my changes
+
+thank you 
+final copy
+
