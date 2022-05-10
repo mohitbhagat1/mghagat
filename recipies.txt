@@ -5,5 +5,10 @@ welcome to git
  past
 chicken
 fish
+
+
+done my changes
+
 thank you 
 final copy
+
